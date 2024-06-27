@@ -1,0 +1,23 @@
+.button-like {
+    display: flex;
+    align-items: center;
+    background-color: #1877f2;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-like:hover {
+    background-color: #155ab3;
+  }
+  
+  .button-like svg {
+    margin-right: 8px;
+    width: 20px;
+    height: 20px;
+  }
+  
